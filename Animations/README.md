@@ -1,4 +1,4 @@
-# Animated GIFs
+# Animations
 
 ## Glitch link
 https://a2-keyblade.glitch.me/
