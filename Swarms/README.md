@@ -1,9 +1,4 @@
-# A4: Swarms!
-
-## Your name
-
-Dayo Babatunde
-
+# Swarms!
 ## Your Glitch link
 
 https://a4-keyblade.glitch.me/
