@@ -1,5 +1,5 @@
 # Swarms!
-## Your Glitch link
+## Glitch link
 
 https://a4-keyblade.glitch.me/
 
